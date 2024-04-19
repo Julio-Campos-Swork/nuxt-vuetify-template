@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@pinia-plugin-persistedstate/nuxt": "^1.2.0",
-    "i": "^0.3.7",
+    
     "vite-plugin-vuetify": "^2.0.3",
     "vuetify": "^3.5.15"
   }
